@@ -1,2 +1,1 @@
-# drwebster
-site php drwebster
+https://github.com/Elosiel/drwebster.git
